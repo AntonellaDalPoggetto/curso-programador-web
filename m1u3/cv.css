@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    color: crimson;
+    text-shadow: -4px 5px 9px rgba(0,0,0,0.6);
+}
+
+h2{
+    font-family: cursive;
+}
+.destacados{
+    color: rgb(95, 104, 129);
+    font-weight: normal;
+}
+
+p{
+    font-weight: normal;
+    font-size: medium;
+}
+#rojo{
+    background-color: red;
+    box-shadow: -29px 13px 5px 5px rgba(199,70,78,0.75);
+    
+}
+a{
+    font-size: large;
+}
+img{
+    display: block;
+    margin:auto
+}
