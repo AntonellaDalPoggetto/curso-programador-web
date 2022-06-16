@@ -2,7 +2,7 @@ var express = require('express');
 const async = require('hbs/lib/async');
 var router = express.Router();
 var nodemailer = require('nodemailer');
-const SendmailTransport = require('nodemailer/lib/sendmail-transport');
+
 
 /* GET home page. */
 router.get('/', function (req, res, next) {
